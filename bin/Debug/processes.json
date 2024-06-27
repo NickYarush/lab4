@@ -1,0 +1,822 @@
+[
+  {
+    "ProcessId": 13784,
+    "ProcessPath": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.17.10691.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 6024,
+    "ProcessPath": "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jusched.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 27276,
+    "ProcessPath": "C:\\Users\\PC\\source\\repos\\lab2\\lab2\\bin\\Debug\\net8.0-windows\\lab2.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 6884,
+    "ProcessPath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 14636,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13340,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 6648,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3600,
+    "ProcessPath": "C:\\Program Files (x86)\\OpenOffice 4\\program\\soffice.bin",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 18504,
+    "ProcessPath": "C:\\Windows\\explorer.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 2976,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 29308,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 12892,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 7288,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 15476,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 15040,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Discord\\app-1.0.9152\\Discord.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 27496,
+    "ProcessPath": "C:\\Windows\\System32\\conhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 24512,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.dotnet.x64\\ServiceHub.DataWarehouseHost.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 12868,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 26504,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.dotnet.x64\\ServiceHub.IndexingService.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 6832,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 16736,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 5104,
+    "ProcessPath": "C:\\Windows\\System32\\taskhostw.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 12204,
+    "ProcessPath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 22772,
+    "ProcessPath": "C:\\Windows\\System32\\conhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 1652,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EACefSubProcess.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13288,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 28940,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 6820,
+    "ProcessPath": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 30520,
+    "ProcessPath": "C:\\Windows\\System32\\dllhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 27680,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.SettingsHost.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20804,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EACefSubProcess.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 10684,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3356,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 14992,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 14560,
+    "ProcessPath": "C:\\Windows\\System32\\DataExchangeHost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 12404,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13696,
+    "ProcessPath": "C:\\Windows\\System32\\conhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 8088,
+    "ProcessPath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 25688,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 29204,
+    "ProcessPath": "C:\\Windows\\explorer.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 7652,
+    "ProcessPath": "C:\\Program Files\\ReasonLabs\\Common\\Client\\v1.4.2\\rsAppUI.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 23596,
+    "ProcessPath": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2112.32.0_x64__8wekyb3d8bbwe\\Notepad\\Notepad.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 14112,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 14972,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 24920,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 6996,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 5336,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Discord\\app-1.0.9152\\Discord.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 26168,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Temp\\is-AH95B.tmp\\CodeSetup-stable-5437499feb04f7a586f677b155b039bc2b3669eb.tmp",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20360,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.netfx.x64\\ServiceHub.IntellicodeModelService.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 6388,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 27880,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\MSBuild.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 11500,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13220,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 16672,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 17952,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 6436,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\PerfWatson2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 23864,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 25880,
+    "ProcessPath": "C:\\Windows\\System32\\conhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 26288,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 29336,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 7064,
+    "ProcessPath": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_aadd853bf8841644\\RtkAudUService64.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 11128,
+    "ProcessPath": "C:\\Program Files\\ReasonLabs\\Common\\Client\\v1.4.2\\rsAppUI.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 24396,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.dotnet.x64\\ServiceHub.RoslynCodeAnalysisService.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 19652,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\controller\\Microsoft.ServiceHub.Controller.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20944,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EADesktop.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 4996,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.dotnet.x64\\ServiceHub.VSDetouredHost.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 17104,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 25380,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 12320,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 15764,
+    "ProcessPath": "C:\\Program Files (x86)\\Overwolf\\Overwolf.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20504,
+    "ProcessPath": "C:\\Program Files\\WindowsApps\\33C30B79.HyperXNGenuity_5.25.1.0_x64__0a78dr3hq0pvt\\Assets\\Native\\NGenuity2Helper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 11452,
+    "ProcessPath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 8552,
+    "ProcessPath": "C:\\Program Files\\ReasonLabs\\Common\\Client\\v1.4.2\\rsAppUI.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 12312,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 15756,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Discord\\app-1.0.9152\\Discord.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 17356,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 29976,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 14132,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 2820,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 5836,
+    "ProcessPath": "C:\\Windows\\System32\\conhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 17464,
+    "ProcessPath": "C:\\Windows\\System32\\conhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 14020,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Discord\\app-1.0.9152\\Discord.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 21764,
+    "ProcessPath": "C:\\Windows\\explorer.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 22104,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.dotnet.x64\\ServiceHub.Host.dotnet.x64.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20904,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EACefSubProcess.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 19508,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\Remote Debugger\\x86\\msvsmon.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 7968,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 21328,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 28652,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 5808,
+    "ProcessPath": "C:\\Windows\\explorer.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 13996,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 25628,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-5437499feb04f7a586f677b155b039bc2b3669eb.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 4500,
+    "ProcessPath": "C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode\\NVIDIA Web Helper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 15700,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13544,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13956,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 30296,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 23880,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 29912,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.Host.AnyCPU.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20424,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EACefSubProcess.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 10508,
+    "ProcessPath": "C:\\Windows\\System32\\dllhost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 7940,
+    "ProcessPath": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 22400,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 19984,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\VBCSCompiler.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3408,
+    "ProcessPath": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 11496,
+    "ProcessPath": "C:\\Program Files (x86)\\OpenOffice 4\\program\\soffice.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 29888,
+    "ProcessPath": "C:\\Windows\\System32\\cmd.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 10920,
+    "ProcessPath": "C:\\Program Files\\ReasonLabs\\EPP\\rsHelper.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 8764,
+    "ProcessPath": "C:\\Program Files (x86)\\Overwolf\\0.251.2.1\\OverwolfBrowser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 22124,
+    "ProcessPath": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 7900,
+    "ProcessPath": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 10916,
+    "ProcessPath": "C:\\Program Files (x86)\\OpenOffice 4\\program\\swriter.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 18672,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3584,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 20392,
+    "ProcessPath": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 13924,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Discord\\app-1.0.9152\\Discord.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 22112,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 25988,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 15212,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Discord\\app-1.0.9152\\Discord.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 25532,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 10900,
+    "ProcessPath": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 8184,
+    "ProcessPath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 7872,
+    "ProcessPath": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_421.20070.195.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 17016,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 24988,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 22516,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 6468,
+    "ProcessPath": "C:\\Program Files\\ReasonLabs\\Common\\Client\\v1.4.2\\rsAppUI.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 10444,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3544,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 18628,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 20776,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EACefSubProcess.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 14740,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 14308,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3528,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 16456,
+    "ProcessPath": "C:\\Program Files (x86)\\Overwolf\\0.251.2.1\\OverwolfBrowser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 19472,
+    "ProcessPath": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 15588,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 14292,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13860,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.AnyCPU\\ServiceHub.TestWindowStoreHost.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 26356,
+    "ProcessPath": "C:\\Program Files\\nodejs\\node.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 13964,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 8252,
+    "ProcessPath": "C:\\Windows\\System32\\svchost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 25432,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 16004,
+    "ProcessPath": "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7x64\\steamwebhelper.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 30224,
+    "ProcessPath": "C:\\Users\\PC\\source\\repos\\lab4\\lab4\\bin\\Debug\\lab4.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 19448,
+    "ProcessPath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 25908,
+    "ProcessPath": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 9960,
+    "ProcessPath": "C:\\Program Files (x86)\\Radmin VPN\\RvRvpnGui.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 18148,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3924,
+    "ProcessPath": "C:\\Program Files\\ReasonLabs\\Common\\Client\\v1.4.2\\rsAppUI.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 28596,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 23740,
+    "ProcessPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ServiceHub\\Hosts\\ServiceHub.Host.dotnet.x64\\ServiceHub.IdentityHost.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 3480,
+    "ProcessPath": "C:\\Windows\\System32\\sihost.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 17268,
+    "ProcessPath": "C:\\Program Files (x86)\\Overwolf\\0.251.2.1\\OverwolfBrowser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 7668,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 9508,
+    "ProcessPath": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\126.0.2592.68\\msedgewebview2.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 25020,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 21140,
+    "ProcessPath": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EALocalHostSvc.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 11224,
+    "ProcessPath": "C:\\Windows\\System32\\RuntimeBroker.exe",
+    "IsSigned": false
+  },
+  {
+    "ProcessId": 6796,
+    "ProcessPath": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 23520,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 16820,
+    "ProcessPath": "C:\\Program Files (x86)\\Overwolf\\0.251.2.1\\OverwolfBrowser.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 2596,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "IsSigned": true
+  },
+  {
+    "ProcessId": 7328,
+    "ProcessPath": "C:\\Users\\PC\\AppData\\Local\\Overwolf\\ProcessCache\\0.251.2.1\\cchhcaiapeikjbdbpfplgmpobbcdkdaphclbmkbj\\curseforge.exe",
+    "IsSigned": true
+  }
+]
